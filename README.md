@@ -1,6 +1,6 @@
 # Regalia – Online Shopping Website for Suits
 
-**Regalea** is an e-commerce website designed for selling suits, developed using **PHP**, **HTML**, **CSS**, and **MySQL**.  
+**Regalia** is an e-commerce website designed for selling suits, developed using **PHP**, **HTML**, **CSS**, and **MySQL**.  
 It offers a clean user interface, a functional shopping experience, and a simple admin panel for product management.
 
 ## ✨ Features
