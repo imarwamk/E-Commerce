@@ -9,7 +9,7 @@
 ![7](https://github.com/user-attachments/assets/73b53a42-be0f-4786-8b6f-627fe96098c6)
 
 
-a** is an e-commerce website![Uploading 6.jpg…]()
+Regalia is an e-commerce website![Uploading 6.jpg…]()
  designed for selling suits, developed using **PHP**, **HTML**, **CSS**, and **MySQL**.  
 It offers a clean user interface, a functional shopping experience, and a simple admin panel for product management.
 
